@@ -69,7 +69,7 @@ Using language models to learn representations of protein sequences.
 *   **ESM-2:** [Paper](https://www.science.org/doi/10.1126/science.ade2574) [Code](https://github.com/facebookresearch/esm)
 *   **ESM-3:** [Paper](https://www.biorxiv.org/content/10.1101/2024.07.01.600583v2) [Code](https://github.com/evolutionaryscale/esm)
 *   **ProtTrans:** [Paper](https://pubmed.ncbi.nlm.nih.gov/34232869/) [Code](https://github.com/agemagician/ProtTrans)
-*   **ProstT5:** [Paper](https://www.biorxiv.org/content/10.1101/2023.07.23.550085v1) [Code](https://github.com/mheinzinger/ProstT5)
+*   **ProstT5:** [Paper](https://www.biorxiv.org/content/10.1101/2023.07.23.550085v2) [Code](https://github.com/mheinzinger/ProstT5)
 *   **SaProt:** [Paper](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v5) [Code](https://github.com/westlake-repl/SaProt)
 *   **PoET:** [Paper](https://arxiv.org/abs/2306.06156) [Code](https://github.com/OpenProteinAI/PoET)
 
