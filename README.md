@@ -8,7 +8,7 @@
 
 ## Getting Started
 
-*   **ML/DL project template:** [lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template)
+*   **Project template:** [lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template)
 
 *   **Protein Data:**
     *   [Protein Data Bank (PDB)](https://www.rcsb.org/):  The primary repository for protein structures.
