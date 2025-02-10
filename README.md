@@ -4,8 +4,7 @@
   <img src="./protein.gif" alt="Protein Structure Animation" width="400"/>
   
   A curated collection of machine learning tools for proteins
-  
-  [Getting Started](#getting-started) • [Tools](#key-tools) • [Resources](#resources)
+
 </div>
 
 ## 📋 Contents
