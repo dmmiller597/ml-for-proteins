@@ -46,6 +46,9 @@ Designing protein sequences that fold into a desired 3D structure.
 *   **ESM-IF1:** [Paper](https://www.biorxiv.org/content/10.1101/2022.04.10.487779v2) [Repo](https://github.com/facebookresearch/esm) [Colab](https://colab.research.google.com/github/facebookresearch/esm/blob/main/examples/inverse_folding/notebook.ipynb) - Inverse folding using a protein language model.
 
 ### 4. Binder Design
+
+Designing protein sequences that bind to a specific target.
+
 *   **Bindcraft:** [Paper](https://www.biorxiv.org/content/10.1101/2024.09.30.615802) [Code](https://github.com/martinpacesa/BindCraft)
 *   **EvoBind:** [Paper](https://www.biorxiv.org/content/10.1101/2024.06.20.599739v2) [Code](https://github.com/patrickbryant1/EvoBind)
 
@@ -76,18 +79,15 @@ Using language models to learn representations of protein sequences.
 *   **SaProt:** [Paper](https://www.biorxiv.org/content/10.1101/2023.10.01.560349v5) [Code](https://github.com/westlake-repl/SaProt)
 *   **PoET:** [Paper](https://arxiv.org/abs/2306.06156) [Code](https://github.com/OpenProteinAI/PoET)
 
+### 7. Benchmarks
 
-### 7. Molecular Dynamics Simulations
-* **OpenMM:** [Paper](https://doi.org/10.1371/journal.pcbi.1005659) - High-performance toolkit for molecular simulation.
-
-### 8. Benchmarks
 *   **ProteinGym:** [Paper](https://papers.nips.cc/paper_files/paper/2023/file/cac723e5ff29f65e3fcbb0739ae91bee-Paper-Datasets_and_Benchmarks.pdf) [Code](https://github.com/OATML-Markslab/ProteinGym) [Website](https://proteingym.org/)
 *   **ProteinWorkshop:** [Paper](https://openreview.net/forum?id=sTYuRVrdK3) [Code](https://github.com/a-r-j/ProteinWorkshop) [Website](https://proteins.sh/)
 *   **Pinder:** [Paper](https://www.biorxiv.org/content/10.1101/2024.07.17.603980v4) [Code](https://github.com/pinder-org/pinder) [Website](https://www.pinder.sh/#home)
 *   **Plinder:** [Paper](https://www.biorxiv.org/content/10.1101/2024.07.17.603955v3) [Code](https://console.cloud.google.com/storage/browser/plinder) [Website](https://www.plinder.sh/)
 
 
-### 9. Other Useful Tools
+### 8. Other Useful Tools
 
 *   **FoldSeek:** [Paper](https://www.nature.com/articles/s41587-023-01773-0) [Code](https://github.com/steineggerlab/foldseek) [Server](https://search.foldseek.com/search) - Fast and sensitive protein structure search.
 *   **MMseqs2:** [Paper](https://www.nature.com/articles/nbt.3988) [Code](https://github.com/soedinglab/MMseqs2) -  Software suite for searching and clustering large sequence sets.
