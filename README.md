@@ -95,6 +95,7 @@ Using language models to learn representations of protein sequences.
 
 ### Other Resources
 
+*   [biolists](https://github.com/biolists) and [yangkky/Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins)
 *   [Tools suggested by Adaptyv Bio](https://design.adaptyvbio.com/tools)
 *   [MolecularNodes](https://bradyajohnston.github.io/MolecularNodes/)
 *   [Molstar](https://molstar.org/)
