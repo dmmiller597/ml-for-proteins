@@ -22,7 +22,7 @@
 
 Predicting the 3D structure of a protein from its amino acid sequence.
 
-*   **AlphaFold2 / ColabFold:**  [Paper](https://www.nature.com/articles/s41586-021-03819-2) [Code](https://github.com/google-deepmind/alphafold) [Colab](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) [Docker](https://github.com/sokrypton/ColabFold/wiki/Running-ColabFold-in-Docker) - Highly accurate protein structure prediction.
+*   **AlphaFold2 / ColabFold:**  [Paper](https://www.nature.com/articles/s41586-021-03819-2) [Code](https://github.com/google-deepmind/alphafold) [Colab](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) - Highly accurate protein structure prediction.
 *   **ESMFold:** [Paper](https://www.science.org/doi/10.1126/science.ade2574) [Code](https://github.com/facebookresearch/esm) [Server](https://esmatlas.com/resources?action=fold) - Fast, single-sequence structure prediction using a language model.
 *   **RoseTTAFold/RoseTTAFoldAllAtom:** [Paper (RF)](https://www.science.org/doi/10.1126/science.abj8754) [Paper (RF-AA)](https://www.science.org/doi/10.1126/science.adl2528) [Code (RF)](https://github.com/RosettaCommons/RoseTTAFold) [Code (RF-AA)](https://github.com/baker-laboratory/RoseTTAFold-All-Atom) - Accurate structure prediction methods from the Baker lab, with the All-Atom version providing full atomic detail.
 
