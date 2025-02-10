@@ -1,5 +1,8 @@
 # Machine Learning for Proteins Starter Kit
 
+![Protein Structure Animation](protein.gif)
+
+
 ## Getting Started
 
 *   **ML/DL project template:** [lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template)
