@@ -7,7 +7,7 @@
 
 </div>
 
-## 📋 Contents
+## Contents
 
 - [Getting Started](#getting-started)
 - [Data Sources](#data-sources)
