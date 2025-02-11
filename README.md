@@ -1,7 +1,7 @@
 # Machine Learning for Proteins Starter Kit
 
 <div align="center">
-  <img src="./protein.gif" alt="Protein Structure Animation" width="400"/>
+  <img src="./p3.png" alt="Protein Structure Animation"/>
   
   A curated collection of machine learning tools for proteins
 
