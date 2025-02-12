@@ -51,7 +51,7 @@
 | ------------- | ----------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | **AlphaFold3** | Accurate biomolecular interaction modelling                                          | [Paper](https://doi.org/10.1038/s41586-024-07487-w)                    | [Code](https://github.com/google-deepmind/alphafold3)              |
 | **Boltz-1**   | Open-source reproduction of AF3                                           | [Paper](https://doi.org/10.1101/2024.11.19.624167)                     | [Code](https://github.com/jwohlwend/boltz)                        |
-| **Chai-1**    |   Embedding-based protein-protein interaction modeling                                        | [Report](https://www.chaidiscovery.com/blog/introducing-chai-1)        | [Code](https://github.com/chaidiscovery/chai-lab)                  |
+| **Chai-1**    |   Embedding-based interaction modeling                                        | [Report](https://www.chaidiscovery.com/blog/introducing-chai-1)        | [Code](https://github.com/chaidiscovery/chai-lab)                  |
 
 **Docking Tools:**
 
