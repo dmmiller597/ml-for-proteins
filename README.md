@@ -24,11 +24,11 @@
 
 ## Getting Started
 
-[PyTorch Lightning + Hydra.](https://github.com/ashleve/lightning-hydra-template) A very user-friendly template for ML experimentation
+ [PyTorch Lightning + Hydra.](https://github.com/ashleve/lightning-hydra-template) A very user-friendly template for ML experimentation
 
 ## Data Sources
 
-| Resource                                  | Description                                      |
+| Resource                                    | Description                                      |
 | ----------------------------------------- | ------------------------------------------------ |
 | [Protein Data Bank (PDB)](https://www.rcsb.org/) | Primary repository for protein structures           |
 | [UniProt](https://www.uniprot.org/)         | Comprehensive protein sequence database            |
@@ -39,11 +39,11 @@
 
 ### 1. Structure Prediction
 
-| Tool                               | Description                                      | Paper                                                                                             | Code                                                                                  | Other Resources                                           |
-| ---------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| **AlphaFold2 / ColabFold**         | State-of-the-art structure prediction            | [Paper](https://www.nature.com/articles/s41586-021-03819-2)                                       | [Code](https://github.com/google-deepmind/alphafold)                                 | [Colab](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) |
-| **ESMFold**                        | Fast, single-sequence prediction                 | [Paper](https://www.science.org/doi/10.1126/science.ade2574)                                    | [Code](https://github.com/facebookresearch/esm)                                        | [Server](https://esmatlas.com/resources?action=fold)    |
-| **RoseTTAFold/AllAtom** | Accurate structure prediction methods             | [Paper (RF)](https://www.science.org/doi/10.1126/science.abj8754) <br> [Paper (RF-AA)](https://www.science.org/doi/10.1126/science.adl2528) | [Code (RF)](https://github.com/RosettaCommons/RoseTTAFold) <br> [Code (RF-AA)](https://github.com/baker-laboratory/RoseTTAFold-All-Atom) |                                                           |
+| Tool                               | Description                                      | Paper                                                                                             | Code                                                                                  | Other Resources                                               |
+| ---------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| **AlphaFold2 / ColabFold**         | State-of-the-art structure prediction            | [Paper](https://www.nature.com/articles/s41586-021-03819-2)                                       | [Code](https://github.com/google-deepmind/alphafold)                                 | [Colab](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)     |
+| **ESMFold**                        | Fast, single-sequence prediction                 | [Paper](https://www.science.org/doi/10.1126/science.ade2574)                                    | [Code](https://github.com/facebookresearch/esm)                                        | [Server](https://esmatlas.com/resources?action=fold)        |
+| **RoseTTAFold/AllAtom** | Accurate structure prediction methods             | [Paper (RF)](https://www.science.org/doi/10.1126/science.abj8754) <br> [Paper (RF-AA)](https://www.science.org/doi/10.1126/science.adl2528) | [Code (RF)](https://github.com/RosettaCommons/RoseTTAFold) <br> [Code (RF-AA)](https://github.com/baker-laboratory/RoseTTAFold-All-Atom) |                                                               |
 
 ### 2. Interaction Modeling
 
@@ -53,7 +53,7 @@
 | **Boltz-1**   | Open-source reproduction of AF3                                           | [Paper](https://doi.org/10.1101/2024.11.19.624167)                     | [Code](https://github.com/jwohlwend/boltz)                        |
 | **Chai-1**    |   Embedding-based interaction modeling                                        | [Report](https://www.chaidiscovery.com/blog/introducing-chai-1)        | [Code](https://github.com/chaidiscovery/chai-lab)                  |
 
-**Docking Tools:**
+#### Docking Tools:
 
 | Tool           | Description                                           | Paper                                                                     | Code                                                                 |
 | -------------- | ----------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------------------- |
@@ -67,7 +67,7 @@
 | -------------- | --------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------- |
 | **ProteinMPNN** | Backbone sequence design                | [Paper](https://www.science.org/doi/10.1126/science.add2187)               | [Code](https://github.com/dauparas/ProteinMPNN)                       |                 |
 | **LigandMPNN**  | Ligand-aware sequence design            | [Paper](https://www.biorxiv.org/content/10.1101/2023.12.22.573103v1)      | [Code](https://github.com/dauparas/LigandMPNN)                        |                 |
-| **ESM-IF1**    | Language model-based inverse folding   | [Paper](https://www.biorxiv.org/content/10.1101/2022.04.10.487779v2)      | [Code](https://github.com/facebookresearch/esm)                       | [Colab](https://colab.research.google.com/github/facebookresearch/esm/blob/main/examples/inverse_folding/notebook.ipynb)         |
+| **ESM-IF1**    | Language model-based inverse folding   | [Paper](https://www.biorxiv.org/content/10.1101/2022.04.10.487779v2)      | [Code](https://github.com/facebookresearch/esm)                       | [Colab](https://colab.research.google.com/github/facebookresearch/esm/blob/main/examples/inverse_folding/notebook.ipynb)     |
 
 ### 4. Binder Design
 
@@ -106,20 +106,22 @@
 
 ### 7. Benchmarks
 
-| Tool              | Description                        | Paper                                                                                                | Code                                                                       | Website                                    |
-| ----------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------ |
-| **ProteinGym**    | Protein fitness evaluation suite     | [Paper](https://papers.nips.cc/paper_files/paper/2023/file/cac723e5ff29f65e3fcbb0739ae91bee-Paper-Datasets_and_Benchmarks.pdf) | [Code](https://github.com/OATML-Markslab/ProteinGym)                       | [Website](https://proteingym.org/)          |
-| **ProteinWorkshop** | Benchmark suite for representation learning | [Paper](https://openreview.net/forum?id=sTYuRVrdK3)                                                | [Code](https://github.com/a-r-j/ProteinWorkshop)                            | [Website](https://proteins.sh/)             |
-| **Pinder**       | Protein-protein interaction benchmark| [Paper](https://www.biorxiv.org/content/10.1101/2024.07.17.603980v4)                                 | [Code](https://github.com/pinder-org/pinder)                               | [Website](https://www.pinder.sh/)           |
-| **Plinder**      | Protein-ligand interaction benchmark | [Paper](https://www.biorxiv.org/content/10.1101/2024.07.17.603955v3)                                 | [Code](https://console.cloud.google.com/storage/browser/plinder)            | [Website](https://www.plinder.sh/)          |
+| Tool              | Description                        | Paper                                                                                                | Code                                                                       | Website                                  |
+| ----------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------- |
+| **ProteinGym**    | Protein fitness evaluation suite     | [Paper](https://papers.nips.cc/paper_files/paper/2023/file/cac723e5ff29f65e3fcbb0739ae91bee-Paper-Datasets_and_Benchmarks.pdf) | [Code](https://github.com/OATML-Markslab/ProteinGym)                       | [Website](https://proteingym.org/)        |
+| **ProteinWorkshop** | Benchmark suite for representation learning | [Paper](https://openreview.net/forum?id=sTYuRVrdK3)                                                | [Code](https://github.com/a-r-j/ProteinWorkshop)                            | [Website](https://proteins.sh/)           |
+| **Pinder**       | Protein-protein interaction benchmark| [Paper](https://www.biorxiv.org/content/10.1101/2024.07.17.603980v4)                                 | [Code](https://github.com/pinder-org/pinder)                               | [Website](https://www.pinder.sh/)         |
+| **Plinder**      | Protein-ligand interaction benchmark | [Paper](https://www.biorxiv.org/content/10.1101/2024.07.17.603955v3)                                 | [Code](https://console.cloud.google.com/storage/browser/plinder)            | [Website](https://www.plinder.sh/)        |
 
 ### 8. Utility Tools
 
-| Tool         | Description                   | Paper                                                                  | Code                                                              |  Server                             |
-| ------------ | ----------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------- |
+| Tool         | Description                   | Paper                                                                  | Code                                                              |  Server                           |
+| ------------ | ----------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------- |
 | **FoldSeek**  | Fast structure search         | [Paper](https://www.nature.com/articles/s41587-023-01773-0)             | [Code](https://github.com/steineggerlab/foldseek)                 | [Server](https://search.foldseek.com/search) |
 | **MMseqs2**   | Sequence search and clustering | [Paper](https://www.nature.com/articles/nbt.3988)                       | [Code](https://github.com/soedinglab/MMseqs2)                      | [Server](https://seqsearch.west.k8s.rcsb.org/search) |
-| **FoldMason** | Structure alignment at scale  | [Paper](https://www.biorxiv.org/content/10.1101/2024.08.01.606130v3)     | [Code](https://github.com/steineggerlab/foldmason)                | [Server](https://foldmason.com/)           |
+| **FoldMason** | Structure alignment at scale  | [Paper](https://www.biorxiv.org/content/10.1101/2024.08.01.606130v3)     | [Code](https://github.com/steineggerlab/foldmason)                | [Server](https://foldmason.com/)         |
+
+---
 
 ## Additional Resources
 
