@@ -43,7 +43,7 @@
 | ---------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | **AlphaFold2 / ColabFold**         | State-of-the-art structure prediction            | [Paper](https://www.nature.com/articles/s41586-021-03819-2)                                       | [Code](https://github.com/google-deepmind/alphafold)                                 | [Colab](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) |
 | **ESMFold**                        | Fast, single-sequence prediction                 | [Paper](https://www.science.org/doi/10.1126/science.ade2574)                                    | [Code](https://github.com/facebookresearch/esm)                                        | [Server](https://esmatlas.com/resources?action=fold)    |
-| **RoseTTAFold/RoseTTAFoldAllAtom** | Accurate structure prediction methods             | [Paper (RF)](https://www.science.org/doi/10.1126/science.abj8754) <br> [Paper (RF-AA)](https://www.science.org/doi/10.1126/science.adl2528) | [Code (RF)](https://github.com/RosettaCommons/RoseTTAFold) <br> [Code (RF-AA)](https://github.com/baker-laboratory/RoseTTAFold-All-Atom) |                                                           |
+| **RoseTTAFold/AllAtom** | Accurate structure prediction methods             | [Paper (RF)](https://www.science.org/doi/10.1126/science.abj8754) <br> [Paper (RF-AA)](https://www.science.org/doi/10.1126/science.adl2528) | [Code (RF)](https://github.com/RosettaCommons/RoseTTAFold) <br> [Code (RF-AA)](https://github.com/baker-laboratory/RoseTTAFold-All-Atom) |                                                           |
 
 ### 2. Interaction Modeling
 
@@ -51,7 +51,7 @@
 | ------------- | ----------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | **AlphaFold3** | Accurate biomolecular interaction modelling                                          | [Paper](https://doi.org/10.1038/s41586-024-07487-w)                    | [Code](https://github.com/google-deepmind/alphafold3)              |
 | **Boltz-1**   | Open-source reproduction of AF3                                           | [Paper](https://doi.org/10.1101/2024.11.19.624167)                     | [Code](https://github.com/jwohlwend/boltz)                        |
-| **Chai-1**    |                                           | [Report](https://www.chaidiscovery.com/blog/introducing-chai-1)        | [Code](https://github.com/chaidiscovery/chai-lab)                  |
+| **Chai-1**    |   Embedding-based protein-protein interaction modeling                                        | [Report](https://www.chaidiscovery.com/blog/introducing-chai-1)        | [Code](https://github.com/chaidiscovery/chai-lab)                  |
 
 **Docking Tools:**
 
