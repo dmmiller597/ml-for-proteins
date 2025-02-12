@@ -89,6 +89,7 @@
 | **FrameFlow** | Fast SE(3) flow-based backbone generation | [Paper](https://arxiv.org/abs/2310.05297) | [Code](https://github.com/microsoft/protein-frame-flow) |
 | **Multiflow** | Multimodal flow model for protein structure and sequence co-design | [Paper](https://arxiv.org/abs/2402.04997) | [Code](https://github.com/jasonkyuyim/multiflow) |
 | **PLAID** | Guided diffusion model for flexible protein structure generation | [Paper](https://www.biorxiv.org/content/10.1101/2024.12.02.626353v1) | [Code](https://github.com/amyxlu/plaid) |
+| **EvoDiff** | Sequence-based diffusion model for protein design.  | [Paper](https://www.biorxiv.org/content/10.1101/2023.09.11.556673v2) | [Code](https://github.com/microsoft/evodiff) |
 
 ### 6. Language Models
 
