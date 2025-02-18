@@ -65,7 +65,7 @@
 
 | Tool           | Description                             | Paper                                                                     | Code                                                                  | Other Resources |
 | -------------- | --------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------- |
-| **FAMPNN** - Full-atom protein sequence design | [Paper](https://www.biorxiv.org/content/10.1101/2025.02.13.637498v1) | [Code](https://github.com/richardshuai/fampnn) |
+| **FAMPNN** | Full-atom protein sequence design | [Paper](https://www.biorxiv.org/content/10.1101/2025.02.13.637498v1) | [Code](https://github.com/richardshuai/fampnn) |
 | **ProteinMPNN** | Backbone sequence design                | [Paper](https://www.science.org/doi/10.1126/science.add2187)               | [Code](https://github.com/dauparas/ProteinMPNN)                       |                 |
 | **LigandMPNN**  | Ligand-aware sequence design            | [Paper](https://www.biorxiv.org/content/10.1101/2023.12.22.573103v1)      | [Code](https://github.com/dauparas/LigandMPNN)                        |                 |
 | **ESM-IF1**    | Language model-based inverse folding   | [Paper](https://www.biorxiv.org/content/10.1101/2022.04.10.487779v2)      | [Code](https://github.com/facebookresearch/esm)                       | [Colab](https://colab.research.google.com/github/facebookresearch/esm/blob/main/examples/inverse_folding/notebook.ipynb)     |
